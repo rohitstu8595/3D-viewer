@@ -86,6 +86,7 @@ To build the projects for production you have to run the following command:
 ```
 npm run build
 ```
+#thank you for giving us your pecious time...
 
 You will obtained a minified version of the sources in the `dist` folder.
 
